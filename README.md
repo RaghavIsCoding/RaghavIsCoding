@@ -1,3 +1,4 @@
+## About me
 - 👋 Hi, I’m @RaghavIsCoding
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
