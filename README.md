@@ -1,6 +1,6 @@
 ## About me
 - 👋 Hi, I’m @RaghavIsCoding
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in AI and ML and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
