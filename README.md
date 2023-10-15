@@ -1,9 +1,21 @@
 ## About me
-- 👋 Hi, I’m @RaghavIsCoding
-- 👀 I’m interested in AI and ML and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+I am Raghav and I am interested in HTML, CSS and JavaScript
+
+#### I am interested in
+
+* HTML
+* CSS
+* JavaScript
+* MongoDB
+* MySQL
+* React
+* Tailwind CSS
+* Bootstrap
+* Starapi
+* Node.js
+
+  
 
 <!---
 RaghavIsCoding/RaghavIsCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
